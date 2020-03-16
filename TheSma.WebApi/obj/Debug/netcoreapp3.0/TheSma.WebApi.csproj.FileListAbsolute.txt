@@ -8,3 +8,41 @@ C:\Users\OnchariWycliffe\source\repos\The School Management System\TheSma.WebApi
 C:\Users\OnchariWycliffe\source\repos\The School Management System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.AssemblyInfoInputs.cache
 C:\Users\OnchariWycliffe\source\repos\The School Management System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.AssemblyInfo.cs
 C:\Users\OnchariWycliffe\source\repos\The School Management System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.RazorTargetAssemblyInfo.cache
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\TheSma.WebApi.exe
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\TheSma.WebApi.deps.json
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\TheSma.WebApi.runtimeconfig.json
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\TheSma.WebApi.runtimeconfig.dev.json
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\TheSma.WebApi.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\TheSma.WebApi.pdb
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.csprojAssemblyReference.cache
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\staticwebassets\TheSma.WebApi.StaticWebAssets.Manifest.cache
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\staticwebassets\TheSma.WebApi.StaticWebAssets.xml
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.AssemblyInfoInputs.cache
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.AssemblyInfo.cs
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.RazorTargetAssemblyInfo.cache
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.csproj.CopyComplete
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.dll
+D:\Onchari Projects\School_The\The-School-Management-System\TheSma.WebApi\obj\Debug\netcoreapp3.0\TheSma.WebApi.pdb

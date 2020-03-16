@@ -1,17 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace TheSma.WebApi.Models
 {
     public class Student
     {
-        public int StudentId { get; set; }
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int    StudentId { get; set; }
+
+        [Required]
         public string FirstName { get; set; }
-        public string LastName { get; set; }
+
+        [Required]
+        public string LastName  { get; set; }
+
         public string OtherName { get; set; }
-        public DateTime dateTime { get; set; }
+        public DateTime DateTime{ get; set; }
+
+        [Required]
         public char Gender { get; set; }
 
         public virtual ICollection<StudentParent> StudentParents { get; set; }
