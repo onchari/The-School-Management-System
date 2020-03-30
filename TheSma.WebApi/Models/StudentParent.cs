@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace TheSma.WebApi.Models
+﻿namespace TheSma.WebApi.Models
 {
     public class StudentParent
     {
+        
         public int StudentId { get; set; }
         public int ParentId { get; set; }
 

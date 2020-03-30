@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace TheSma.WebApi.Models
 {
@@ -9,5 +6,7 @@ namespace TheSma.WebApi.Models
     {
         public int ClassId { get; set; }
         public string Name { get; set; }
+        public virtual ICollection<Student> Students { get; set; }
+        public virtual ICollection<Stream> Streams { get; set; }
     }
 }

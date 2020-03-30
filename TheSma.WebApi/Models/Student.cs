@@ -24,5 +24,9 @@ namespace TheSma.WebApi.Models
         public char Gender { get; set; }
 
         public virtual ICollection<StudentParent> StudentParents { get; set; }
+       
+        public virtual Class classes { get; set; }
+
+        public virtual Grade grade { get; set; }
     }
 }
